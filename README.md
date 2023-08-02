@@ -2,7 +2,7 @@
 Just a small project to finish my CAT assessment on my school.
 
 # Files description
-The public folder contains image files.
-index.html : the page
-script.js : Javascript scripts
-style.css : CSS styles
+The public folder contains image files. <br/>
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" /><b> index.html</b> : the page <br/>
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/> <b> script.js</b> : Javascript scripts <br/>
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/> <b> style.css</b> : CSS styles <br/>
